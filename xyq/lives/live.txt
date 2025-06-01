@@ -86,8 +86,8 @@ CCTV13-HD,http://39.135.55.105:6610/PLTV/88888888/224/3221225817/index.m3u8?serv
 华视,rtmp://f13h.mine.nu/sat/tv111#rtmp://60.248.77.83/sat/tv111#rtmp://9hv9.mine.nu/sat/tv111
 台视,rtmp://f13h.mine.nu/sat/tv071#rtmp://60.248.77.83/sat/tv071#rtmp://9hv9.mine.nu/sat/tv071
 民视,rtmp://f13h.mine.nu/sat/tv051#rtmp://60.248.77.83/sat/tv051#rtmp://9hv9.mine.nu/sat/tv051
-CHC家庭影院,http://nas.hssvm.com:8888/udp/225.1.1.213:5002#http://ndnas.top:3300/udp/225.1.4.209:1262#http://www.lizhinas.top:1009/rtp/239.252.219.84:5140#http://goo.bkpcp.top/mg/jtyy
-CHC动作电影,http://ndnas.top:3300/udp/225.1.4.208:1261#http://www.lizhinas.top:1009/rtp/239.252.219.85:5140#http://goo.bkpcp.top/mg/dzdy#http://z.b.bkpcp.top/m.php#http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8
+CHC家庭影院,http://ndnas.top:3300/udp/225.1.4.209:1262#http://www.lizhinas.top:1009/rtp/239.252.219.84:5140#http://goo.bkpcp.top/mg/jtyy
+CHC动作电影,http://ndnas.top:3300/udp/225.1.4.208:1261#http://www.lizhinas.top:1009/rtp/239.252.219.85:5140#http://goo.bkpcp.top/mg/dzdy#http://z.b.bkpcp.top/m.php
 黑莓电影,http://39.137.75.230/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=no#http://[2409:8087:1a01:df::4001]:80/TVOD/88888888/224/3221225681/main.m3u8
 经典电影,http://lxajh.top/tv/douyu.php?id=74374
 天映经典,https://live.tvfix.org/live/tyjd/index.m3u8
