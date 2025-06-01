@@ -20,6 +20,20 @@
             "timeout": 10
         },
         {
+            "name": "电视Live-yang",
+            "type": 0,
+            "url": "https://tv.iill.top/m3u/Gather",
+            "playerType": 2,
+            "timeout": 10
+        },
+        {
+            "name": "网络Live-yang",
+            "type": 0,
+            "url": "https://tv.iill.top/m3u/Live",
+            "playerType": 2,
+            "timeout": 10
+        },
+        {
             "name": "webview.m3u",
             "type": 0,
             "url": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/lives/webview.m3u",
