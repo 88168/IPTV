@@ -101,12 +101,15 @@
           "key":"cntv",
           "name":"央 视",
           "type":3,
-          "api":"https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/cntv_open.js"},
+          "api":"https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/cntv_open.js"
+          "jar": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/jar/ok.jar",
+       },
         {
            "key": "cctv",
            "name": "📺央视｜大全",
            "type": 3,
            "api": "csp_CCTV",
+           "jar": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/jar/hc.jar",
            "searchable": 0,
            "filterable": 0,
            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/央视大全.json"
@@ -116,6 +119,7 @@
            "name": "📺央视｜经典",
            "type": 3,
            "api": "csp_Bili",
+           "jar": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/jar/hc.jar",
            "searchable": 0,
            "quickSearch": 1,
            "filterable": 1,
