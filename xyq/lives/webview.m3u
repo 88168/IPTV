@@ -158,6 +158,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
+https://www.freetv.top/migu/644368714.m3u8?migutoken=781a047a25b03b3efb5eadb27e905cd7fb866fbe4821ac3ec3ac0cc7e6c16cfca86ff567f212d6bf4263987e8de24a6421e5198959f32709d78a00cba967ee12e0819791072a0d30f531787a23
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://148.135.93.213/live.php?id=CHC动作电影
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://nas.hssvm.com:8888/udp/225.1.1.215:5002
@@ -171,12 +173,18 @@ http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8
 http://goo.bkpcp.top/mg/dzdy
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://z.b.bkpcp.top/m.php
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
+https://www.freetv.top/migu/644368373.m3u8?migutoken=571dc311fc83511dc0126e97e983b04794a2b02b54eb64ac4f436dbd075eba6b27b583ca4584624bac092e818ed33365ff0f3394a100fe2ddd90d6dbf65231cef435c6d012ea2b30623f9eed5a
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC影迷电影.png" group-title="🎬电影频道",CHC影迷电影
+https://www.freetv.top/migu/952383261.m3u8?migutoken=0f03f8a6f21f3e880b2ed92692fbe91d8dfce085abaada08b765403bb02ba21efe24ac5dfc6309d458109e6269008dda7a81bf1db4a96cdd7f6a515525d70c5c0bd48cff6a5c04883f4bb888b7
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黑莓电影.png" group-title="🎬电影频道",黑莓电影
 http://39.137.75.230/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=no
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/经典电影.png" group-title="🎬电影频道",经典电影
 http://lxajh.top/tv/douyu.php?id=74374
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/天映经典.png" group-title="🎬电影频道",天映经典
 https://live.tvfix.org/live/tyjd/index.m3u8
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/重温经典.png" group-title="🎬电影频道",重温经典
+重温经典https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11601981&huya&logo" group-title="🎬虎牙「影视」",成立
 https://live.iill.top/huya/11601981
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11601986&huya&logo" group-title="🎬虎牙「影视」",贺岁
