@@ -41,23 +41,7 @@
         }
     ],
     "sites": [
-        {
-            "key": "csp_LocalFile",
-            "name": "本机文件(接口完全免费)",
-            "type": 3,
-            "api": "csp_LocalFile",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "type_flag": 0
-        },
-        {
-            "key": "drpy_js_豆瓣",
-            "name": "豆瓣[js]",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/api/drpy2.min.js",
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/drpy.js"
-        },
+
         {
             "key": "csp_JianPian",
             "name": "🔨荐片",
@@ -68,6 +52,20 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://apijp.rinhome.com"
+        },
+        {
+            "key": "drpy_js_豆瓣",
+            "name": "豆瓣[js]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/api/drpy2.min.js",
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/drpy.js"
+        },
+        {
+            "key": "drpy_js_百忙无果",
+            "name": "芒果TV[js]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/api/drpy2.min.js",
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/百忙无果.js"
         },
         {
             "key": "drpy_js_奇珍异兽",
@@ -91,41 +89,25 @@
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/腾云驾雾.js"
         },
         {
-            "key": "drpy_js_百忙无果",
-            "name": "芒果TV[js]",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/api/drpy2.min.js",
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/百忙无果.js"
+           "key": "hipy_js_菜狗[官]",
+           "name": "菜狗[官](drpy_t3)",
+           "type": 3,
+           "api": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/api/drpy2.min.js",
+           "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1,
+           "order_num": 0,
+           "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/菜狗[官].js"
         },
         {
-            "key": "csp_Yisou",
-            "name": "📀易搜(搜索)",
+            "key": "csp_XYQHiker_戏曲多多",
+            "name": "🎻戏曲多多",
             "type": 3,
-            "api": "csp_Yisou",
+            "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
-        },
-        {
-            "key": "csp_XYQHikerAL_云盘资源",
-            "name": "📀云盘资源(搜索)",
-            "type": 3,
-            "api": "csp_XYQHikerAL",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/云盘资源.json"
-        },
-        {
-            "key": "push_agent",
-            "name": "📽推送",
-            "type": 3,
-            "api": "csp_PushAgent",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+            "filterable": 1,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/戏曲多多.json"
         },
         {
             "key": "csp_Mp4Mov",
@@ -239,16 +221,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_XYQHiker_戏曲多多",
-            "name": "🎻戏曲多多",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/戏曲多多.json"
         },
         {
             "key": "csp_XYQHiker_短剧屋",
@@ -383,6 +355,46 @@
                 "预告片",
                 "体育"
             ]
+        },
+        {
+            "key": "csp_LocalFile",
+            "name": "本机文件",
+            "type": 3,
+            "api": "csp_LocalFile",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "type_flag": 0
+        },
+        {
+            "key": "csp_Yisou",
+            "name": "📀易搜(搜索)",
+            "type": 3,
+            "api": "csp_Yisou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+        },
+        {
+            "key": "csp_XYQHikerAL_云盘资源",
+            "name": "📀云盘资源(搜索)",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/云盘资源.json"
+        },
+        {
+            "key": "push_agent",
+            "name": "📽推送",
+            "type": 3,
+            "api": "csp_PushAgent",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
         }
 
     ],
