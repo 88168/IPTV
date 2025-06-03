@@ -97,6 +97,11 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/api/drpy2.min.js",
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/百忙无果.js"
         },
+       {
+          "key":"cntv",
+          "name":"央 视",
+          "type":3,
+          "api":"https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/cntv_open.js"},
         {
            "key": "cctv",
            "name": "📺央视｜大全",
