@@ -89,17 +89,6 @@
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/腾云驾雾.js"
         },
         {
-           "key": "hipy_js_菜狗[官]",
-           "name": "菜狗[官](drpy_t3)",
-           "type": 3,
-           "api": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/api/drpy2.min.js",
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 1,
-           "order_num": 0,
-           "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/菜狗[官].js"
-        },
-        {
             "key": "csp_XYQHiker_戏曲多多",
             "name": "🎻戏曲多多",
             "type": 3,
