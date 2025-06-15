@@ -257,7 +257,7 @@ CCTV17,http://39.135.135.88/ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 黑莓电影,http://39.135.133.138/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓动画,http://39.134.65.106/PLTV/88888888/224/3221225529/1.m3u8
 
-💝 港 台 🎬 轮 播 ,#genre#
+💝 港台系列,#genre#
 
 18台,http://bxtv.757888.xyz/stream/bxtv/18/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
 TVB Plus,http://bxtv.757888.xyz/stream/bxtv/tvbplus/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
@@ -281,7 +281,7 @@ TVB Plus,http://bxtv.757888.xyz/stream/bxtv/tvbplus/master.m3u8?u=bxtv&p=1416a27
 
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 
-💝 电影系列.明星轮播,#genre#
+💝 🎬电影系列.明星轮播,#genre#
 
 电影_星爷,http://cfss.cc/cdn/hy/11342412.flv
 电影_英叔,http://cfss.cc/cdn/hy/11342421.flv
@@ -340,7 +340,7 @@ TVB Plus,http://bxtv.757888.xyz/stream/bxtv/tvbplus/master.m3u8?u=bxtv&p=1416a27
 搞笑_陈翔六点半,http://cfss.cc/cdn/hy/11274154.flv
 古装剧,http://maomao.kandiantv.cn/douyu1.php?id=338759
 
-💝 电影系列.虎牙「影视」,#genre#
+💝 🎬电影系列.虎牙「影视」,#genre#
 
 「虎牙影视」成立,https://live.iill.top/huya/11601981
 「虎牙影视」」贺岁,https://live.iill.top/huya/11601986
