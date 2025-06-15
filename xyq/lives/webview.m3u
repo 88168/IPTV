@@ -150,12 +150,6 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227087/index.m3u8?rrsip=ott.
 #EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="http://175.178.182.213/logo/纪实人文.png" group-title="☘️ iptv福建移动频道",纪实人文
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227213/index.m3u8?rrsip=ott.fj.chinamobile.com&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%2C10000127420524%2C183.251.240.57%2C20240312180317%2Cfmgott_1000010000000000000990071%2C10001026346178%2C-1%2C0%2C1%2C-1%2C%2C2%2C100001%2C%2C%2C2%2C%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAE2OwQqDMBBE_ybHEFMresjJUigUW9D2WtZkk4rR2ESF_n1VPPS0zPLeMKMHiZeT0BzrJJEsTTSLsxTTTDOpUGkVZwtxIAE_hROcSLC26U3h1Ko9y_wVRZweGeXr4aRaC88WjGAbW0xdjX4Pi1iinxuJQgVNZwgUjPFoYGxcT-8Wvg9vd4RgtY_rJ2vJuIYKQrs8yBtC7roBPKqrMxsnNNiAZADZgsECOvzzbl4tI377fj9g7QAAAA
 
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="💝 港 台 轮 播",凤凰中文台HD
-http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="💝 港 台 轮 播",凤凰资讯台HD
-http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="💝 港 台 轮 播",凤凰香港台HD
-http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" http-user-agent="iPhone" group-title="💝 港 台 轮 播",凤凰资讯
 http://148.135.93.213/phenix.php?id=fhzx
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="http://175.178.182.213/logo/凤凰资讯.png" group-title="💝 港 台 轮 播",凤凰资讯
