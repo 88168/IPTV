@@ -13,6 +13,13 @@
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}"
         },
         {
+            "name": "ipv4.m3u",
+            "type": 0,
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+            "epg": "https://epg.v1.mk/json?ch={name}&date={date}"
+        },
+      
+        {
             "name": "webview.m3u",
             "type": 0,
             "url": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/lives/webview.m3u",
