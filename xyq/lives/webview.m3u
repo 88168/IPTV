@@ -41,8 +41,6 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m3u8?rrsip=ott.
 http://39.135.55.105:6610/PLTV/88888888/224/3221225817/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="莆田综合" tvg-logo="https://live.fanmingming.cn/tv/莆田综合.png" group-title="☘️ iptv福建移动频道",莆田综合
 http://8.138.7.223/tv/fjtv1.php?id=pt1
-#EXTINF:-1 tvg-name="莆田2套" tvg-logo="https://live.fanmingming.cn/tv/莆田2套.png" group-title="☘️ iptv福建移动频道",莆田2套
-http://8.138.7.223/tv/fjtv1.php?id=pt2
 #EXTINF:-1,tvg-id="莆田1套" tvg-name="莆田1套" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/莆田1套.png" group-title="☘️ iptv福建移动频道",莆田1套
 webview://https://www.ptbtv.com/live/pt1t/
 #EXTINF:-1,tvg-id="莆田2套" tvg-name="莆田2套" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/莆田2套.png" group-title="☘️ iptv福建移动频道",,莆田2套
