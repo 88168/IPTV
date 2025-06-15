@@ -77,6 +77,18 @@ CCTV13-HD,http://39.135.55.105:6610/PLTV/88888888/224/3221225817/index.m3u8?serv
 
 💝 港 台 🎬 轮 播 ,#genre#
 
+18台,http://bxtv.757888.xyz/stream/bxtv/18/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+TVB Plus,http://bxtv.757888.xyz/stream/bxtv/tvbplus/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+天映經典頻道,http://bxtv.757888.xyz/stream/bxtv/null-4/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+明珠台,http://bxtv.757888.xyz/stream/bxtv/null-2/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+無線新聞台,http://bxtv.757888.xyz/stream/bxtv/null-1/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+美亞電影台,http://bxtv.757888.xyz/stream/bxtv/null-3/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+翡翠台,http://bxtv.757888.xyz/stream/bxtv/null/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+鳳凰中文,http://bxtv.757888.xyz/stream/bxtv/null-5/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+鳳凰資訊,http://bxtv.757888.xyz/stream/bxtv/null-6/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+鳳凰深圳旁边,http://bxtv.757888.xyz/stream/bxtv/null-7/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+中國電影頻道,http://bxtv.757888.xyz/stream/bxtv/null-8/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 中视,rtmp://f13h.mine.nu/sat/tv091#rtmp://60.248.77.83/sat/tv091#rtmp://9hv9.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111#rtmp://60.248.77.83/sat/tv111#rtmp://9hv9.mine.nu/sat/tv111
