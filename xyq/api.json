@@ -89,7 +89,7 @@
             "name": "🇨🇳央视┃能量┃合集",
             "type": 3,
             "api": "csp_AuthCCTV",
-            "jar": "./jars/config.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/jar/config.jar",
             "searchable": 1,
             "filterable": 0,
             "quickSearch": 0,
