@@ -257,7 +257,7 @@ CCTV17,http://39.135.135.88/ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 黑莓电影,http://39.135.133.138/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓动画,http://39.134.65.106/PLTV/88888888/224/3221225529/1.m3u8
 
-💝 港台系列,#genre#
+💝hk 港台系列,#genre#
 
 18台,http://bxtv.757888.xyz/stream/bxtv/18/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
 TVB Plus,http://bxtv.757888.xyz/stream/bxtv/tvbplus/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
@@ -281,6 +281,24 @@ TVB Plus,http://bxtv.757888.xyz/stream/bxtv/tvbplus/master.m3u8?u=bxtv&p=1416a27
 
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+TVB Plus,http://bx.757888.xyz/api.php?id=tvbp
+天映經典頻道,http://bx.757888.xyz/api.php?id=tyjd
+明珠台,http://bx.757888.xyz/api.php?id=mz
+無線新聞台,http://bx.757888.xyz/api.php?id=wxxw
+美亞電影台,http://bx.757888.xyz/api.php?id=meiya
+翡翠台,http://bx.757888.xyz/api.php?id=fct
+鳳凰中文,http://bx.757888.xyz/api.php?id=fhzw
+鳳凰資訊,http://bx.757888.xyz/api.php?id=fhzx
+鳳凰香港,http://bx.757888.xyz/api.php?id=fhhk
+中國電影頻道,http://bx.757888.xyz/api.php?id=zgdy
+中天新聞台,http://bx.757888.xyz/api.php?id=ztxw
+東森電影,http://bx.757888.xyz/api.php?id=dsdy
+龍華電影,http://bx.757888.xyz/api.php?id=lhdy
 
 💝 🎬电影系列.明星轮播,#genre#
 
