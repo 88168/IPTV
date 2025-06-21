@@ -276,9 +276,9 @@ TVB Plus,http://bxtv.757888.xyz/stream/bxtv/tvbplus/master.m3u8?u=bxtv&p=1416a27
 华视,rtmp://f13h.mine.nu/sat/tv111#rtmp://60.248.77.83/sat/tv111#rtmp://9hv9.mine.nu/sat/tv111
 台视,rtmp://f13h.mine.nu/sat/tv071#rtmp://60.248.77.83/sat/tv071#rtmp://9hv9.mine.nu/sat/tv071
 民视,rtmp://f13h.mine.nu/sat/tv051#rtmp://60.248.77.83/sat/tv051#rtmp://9hv9.mine.nu/sat/tv051
-
+搜狐剧场,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
+1905电影网,http://150.138.77.132:10037/1905电影网.php?id=1905a
 黑莓电影,http://39.137.75.230/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=no#http://[2409:8087:1a01:df::4001]:80/TVOD/88888888/224/3221225681/main.m3u8
-
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
