@@ -1,6 +1,6 @@
 {
 
-   "spider": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/spider.jar",
+   "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/spider.jar",
 "wallpaper": "https://picsum.photos/1280/720/?blur=2",
 "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1723776411507/logo.gif",
 
@@ -9,22 +9,62 @@
         {
             "name": "live",
             "type": 0,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/lives/live.txt",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/lives/live.txt",
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}"
         },
         {
             "name": "ipv4.m3u",
             "type": 0,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}"
         },
       
         {
             "name": "webview.m3u",
             "type": 0,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/lives/webview.m3u",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/lives/webview.m3u",
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}"
-        }
+        },
+    {
+      "name": "LIVE",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "LIVE_fan",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "LIVE_home",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/joevess/IPTV/refs/heads/main/home.m3u8",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "LIVE_Gather",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "LIVEfl",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zeee-u/lzh06/main/fl.m3u",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    }
     ],
     "sites": [
 
@@ -43,43 +83,43 @@
             "key": "drpy_js_豆瓣",
             "name": "豆瓣[js]",
             "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/api/drpy2.min.js",
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/drpy.js"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/api/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/drpy.js"
         },
         {
             "key": "drpy_js_百忙无果",
             "name": "官源 | 芒果TV[js]",
             "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/api/drpy2.min.js",
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/百忙无果.js"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/api/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/百忙无果.js"
         },
         {
             "key": "drpy_js_奇珍异兽",
             "name": "官源 | 爱奇异[js]",
             "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/api/drpy2.min.js",
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/奇珍异兽.js"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/api/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/奇珍异兽.js"
         },
         {
             "key": "drpy_js_优酷",
             "name": "官源 | 优酷视频[js]",
             "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/api/drpy2.min.js",
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/优酷.js"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/api/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/优酷.js"
         },
         {
             "key": "drpy_js_腾云驾雾",
             "name": "官源 | 腾讯视频[js]",
             "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/api/drpy2.min.js",
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/腾云驾雾.js"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/api/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/腾云驾雾.js"
         },
        {
             "key": "drpy_js_菜狗",
             "name": "官源 | 搜狗[js]",
             "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/api/drpy2.min.js",
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/菜狗.js"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/api/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/菜狗.js"
         },
         {
             "key": "csp_XYQHiker_戏曲多多",
@@ -89,7 +129,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/戏曲多多.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/戏曲多多.json"
         },
         {
             "key": "csp_Mp4Mov",
@@ -212,7 +252,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/短剧屋.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/短剧屋.json"
         },
         {
             "key": "csp_XYQHiker_农民影视",
@@ -222,7 +262,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/农民影视.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/农民影视.json"
         },
         {
             "key": "csp_XYQHiker_剧圈圈",
@@ -232,7 +272,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/剧圈圈.json",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/剧圈圈.json",
             "click": "document.getElementById('playleft').children[0].contentWindow.document.getElementById('start').click()"
         },
         {
@@ -243,7 +283,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/骚火电影VIP.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/骚火电影VIP.json"
         },
         {
             "key": "csp_XYQHiker_电影盒子",
@@ -253,7 +293,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/电影盒子.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/电影盒子.json"
         },
         {
             "key": "csp_XYQHiker_瓜子影院",
@@ -263,7 +303,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/瓜子影视.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/瓜子影视.json"
         },
         {
             "key": "csp_XYQHiker_八号影视",
@@ -273,7 +313,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/八号影视.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/八号影视.json"
         },
         {
             "key": "csp_XYQHiker_来看点播",
@@ -283,15 +323,181 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/来看点播.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/来看点播.json"
         },
         {
             "key": "drpy_js_金牌",
             "name": "金牌影视[js]",
             "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/api/drpy2.min.js",
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/金牌影视.js"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/api/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/金牌影视.js"
         },
+    {
+      "key": "量子资源",
+      "name": "🥑量子资源",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "泰国剧",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "动漫",
+        "体育",
+        "剧情片",
+        "动作片",
+        "爱情片",
+        "喜剧片",
+        "伦理片"
+      ]
+    },
+    {
+      "key": "新浪资源",
+      "name": "新浪资源",
+      "type": 0,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "茅台资源",
+      "name": "茅台资源",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "极速资源",
+      "name": "极速资源",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/at/json",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "豪华资源",
+      "name": "豪华资源",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "豆瓣资源",
+      "name": "豆瓣资源",
+      "type": 1,
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "旺旺资源",
+      "name": "旺旺资源",
+      "type": 1,
+      "api": "https://api.wwzy.tv/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "天涯资源",
+      "name": "天涯资源",
+      "type": 1,
+      "api": "https://tyyszyapi.com/api.php/provide/vod/at/?ac=list",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "电影天堂",
+      "name": "电影天堂",
+      "type": 0,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "csp_xpath_saohuotv",
+      "name": "骚火电影(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./ext/saohuo.json"
+    },
+    {
+      "key": "视频采集3",
+      "name": "采集视频3",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "爽文短剧",
+        "灾难片",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片"
+      ]
+    },
+    {
+      "key": "wolongzy",
+      "name": "卧龙资源",
+      "type": 1,
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "剧情片",
+        "动作片",
+        "冒险片",
+        "同性片",
+        "喜剧片",
+        "奇幻片",
+        "恐怖片",
+        "动作片",
+        "国产剧",
+        "国产动漫",
+        "欧美动漫",
+        "日本动漫",
+        "韩国动漫",
+        "港台动漫",
+        "其它动漫",
+        "韩剧",
+        "日剧",
+        "悬疑片",
+        "惊悚片",
+        "灾难片",
+        "爱情片",
+        "犯罪片",
+        "科幻片",
+        "动画电影",
+        "短剧"
+      ]
+    },
         {
             "key": "柚子资源",
             "name": "🍊柚子资源",
@@ -366,7 +572,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/云盘资源.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/云盘资源.json"
         },
         {
             "key": "push_agent",
